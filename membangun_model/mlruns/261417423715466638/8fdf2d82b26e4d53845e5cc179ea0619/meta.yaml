@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aliarridha/project/SMSML_Muhammad-Husain-Ali-Ridha/membangun_model/mlruns/261417423715466638/8fdf2d82b26e4d53845e5cc179ea0619/artifacts
+end_time: 1783021592312
+entry_point_name: ''
+experiment_id: '261417423715466638'
+lifecycle_stage: active
+run_id: 8fdf2d82b26e4d53845e5cc179ea0619
+run_name: trial_2_manual_logging
+run_uuid: 8fdf2d82b26e4d53845e5cc179ea0619
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783021425833
+status: 3
+tags: []
+user_id: aliarridha

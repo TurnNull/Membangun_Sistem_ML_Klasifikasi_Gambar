@@ -1,0 +1,5 @@
+DagsHub Repository:
+https://dagshub.com/TurnNull/plantvillage-mlops
+
+MLflow Tracking:
+https://dagshub.com/TurnNull/plantvillage-mlops.mlflow/#/experiments/0/runs?searchFilter=&orderByKey=attributes.start_time&orderByAsc=false&startTime=ALL&lifecycleFilter=Active&modelVersionFilter=All+Runs&datasetsFilter=W10%3D
